@@ -1,0 +1,37 @@
+/* src/pages/Home.css */
+.home {
+    padding: 40px;
+    text-align: center;
+  }
+  
+  .home h1 {
+    color: #4a90e2;
+    font-size: 36px;
+  }
+  
+  .home p {
+    font-size: 18px;
+    color: #555;
+  }
+  
+  .home-sections {
+    display: flex;
+    justify-content: space-around;
+    margin-top: 30px;
+  }
+  
+  .home-section {
+    width: 45%;
+    background-color: #f2f2f2;
+    padding: 20px;
+    border-radius: 8px;
+  }
+  
+  .home-section h2 {
+    color: #4a90e2;
+  }
+  
+  .home-section p {
+    color: #666;
+  }
+  
